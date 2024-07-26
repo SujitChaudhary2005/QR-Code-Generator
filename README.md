@@ -15,7 +15,7 @@ To get started with this project, follow these instructions:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SujitChaudhary2005/QR-Code-Generator.git
+git clone https://github.com/SujitChaudhary2005 QR-Code-Generator.git
 cd Qr-Code-Generator
 ```
 ### 2. Install Dependencies
@@ -31,6 +31,13 @@ After installing the dependencies, start the server with:
 npm start
 ```
 The server will start on http://localhost:3000. Open this URL in your browser to access the QR Code Generator.
+
+### 📸 Screenshots
+- QR Code Generator Interface
+<div style="display: flex; flex-direction: row;">
+    <img src="./screenshots/Image1.png" alt="QR Code Generator Interface" width="45%" style="margin-right: 10px;">
+    <img src="./screenshots/Image2.png" alt="Generated QR Code" width="45%">
+</div>
 
 ### 📂 Project Structure
 ```perl
