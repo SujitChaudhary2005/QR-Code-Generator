@@ -15,7 +15,7 @@ To get started with this project, follow these instructions:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SujitChaudhary2005 QR-Code-Generator.git
+git clone https://github.com/SujitChaudhary2005/QR-Code-Generator.git
 cd Qr-Code-Generator
 ```
 ### 2. Install Dependencies
