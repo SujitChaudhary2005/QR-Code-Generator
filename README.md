@@ -40,7 +40,7 @@ The server will start on http://localhost:3000. Open this URL in your browser to
 </div>
 
 ### 📂 Project Structure
-```perl
+```plaintext
 qr-code-generator/
 ├── public/
 │   ├── image/              # Folder to store generated QR code images
