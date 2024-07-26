@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Generator</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">QR Code Generator</h1>
+    <form id="qrForm">
+      <div class="form-group">
+        <label for="websiteName">Website Name:</label>
+        <input type="text" class="form-control" id="websiteName" name="websiteName" required autocomplete="off">
+      </div>
+      <div class="form-group">
+        <label for="URL">URL:</label>
+        <input type="url" class="form-control" id="URL" name="URL" required autocomplete="off">
+      </div>
+      <button type="submit" class="btn btn-primary btn-center">Generate QR Code</button>
+    </form>
+    <div id="result" class="result-container mt-4"></div>
+  </div>
+  <script type="text/javascript" src="./script.js"></script>
+</body>
+</html>
