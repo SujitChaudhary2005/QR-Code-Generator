@@ -10,7 +10,7 @@
   "author": "Sujit Chaudhary",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "qr-image": "^3.2.0"
   }
 }
